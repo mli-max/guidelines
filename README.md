@@ -18,6 +18,7 @@ Feel free to fork, comment and add your own.
 * [Suggested app setup](setup.md)
 * [Suggested release flow](release.md)
 * [Text editors](wysiwyg.md)
+* [External knowledge](newsletters.md)
 
 ## Extras
 
